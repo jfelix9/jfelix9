@@ -1,9 +1,5 @@
 ### Hi! You found my ReadMe!
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... a PhD progress tracking tool using PHP
 - 🌱 I’m currently learning ... JavaScript frameworks through a UPenn course
 - 👯 I’m looking to collaborate on ... I'm open to collaborate on anything!
