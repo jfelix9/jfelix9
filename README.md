@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything at all!
 - 📫 How to reach me: ... jfelix9@icloud.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I spend way too much money on Audible audiobooks :)
+- ⚡ Fun fact: ... I'm in the middle of reading SCRUM by Jeff Sutherland.
