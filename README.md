@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! You found my ReadMe!
 
-<!--
-**jfelix9/jfelix9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... a PhD progress tracking tool using PHP
+- 🌱 I’m currently learning ... JavaScript frameworks through a UPenn course
+- 👯 I’m looking to collaborate on ... I'm open to collaborate on anything!
+- 🤔 I’m looking for help with ... React.js
+- 💬 Ask me about ... anything at all!
+- 📫 How to reach me: ... jfelix9@icloud.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I spend way too much money on Audible audiobooks :)
