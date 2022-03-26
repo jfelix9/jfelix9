@@ -1,6 +1,5 @@
 ### Hi! You found my ReadMe!
 
-- 🌱 I’m currently learning ... Vue
-- 💬 Ask me about ... anything at all!
-- 📫 How to reach me: ... jfelixdev@icloud.com
-- 😄 Pronouns: ... He/Him
+Experienced software developer with a demonstrated history of build stunning, reliable, easy-to-use products that customers can be passionate about using. Strong skills in web development, software engineering, database management, as well as customer support.
+
+I have also repeatedly been commended on my communication skills that have time after time allowed me to find innovative solutions to complex problems.
