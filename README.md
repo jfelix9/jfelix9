@@ -1,1 +1,1 @@
-Experienced software developer with a demonstrated history of build stunning, reliable, easy-to-use products that customers can be passionate about using. Strong skills in web development, software engineering, database management, as well as customer support.
+I like Swift but at this point I think Atwood's law is undeniable.
